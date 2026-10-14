@@ -1,3 +1,5 @@
+#----------------- Add automated tests with pytest ----------------#
+
 from app import retrieve, scan
 
 def test_user_cannot_retrieve_admin_document():
