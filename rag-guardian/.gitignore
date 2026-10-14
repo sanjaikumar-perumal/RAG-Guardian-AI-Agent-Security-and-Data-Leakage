@@ -1,1 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+chroma_db/
+chroma_langchain_db/
 
